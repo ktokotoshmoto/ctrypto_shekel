@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.example.crypto_shekel_bot_ver1.CryptoShekelBotVer1Applic
+ ation
+
